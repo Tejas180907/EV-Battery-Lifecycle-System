@@ -1,0 +1,10 @@
+flowchart TD
+    U[User] --> M[Main Menu]
+    M --> BM[Battery Management]
+    M --> V[Validation]
+    BM --> A[Analytics]
+    V --> A
+    BM --> S[Storage]
+    S --> D[(CSV Files)]
+    A --> R[Reporting]
+    R --> O[Reports and Analysis]

@@ -1,0 +1,9 @@
+build/
+*.o
+*.d
+*.exe
+core
+core.*
+data/*.csv
+data/latest_report.txt
+!data/.gitkeep
