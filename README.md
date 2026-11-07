@@ -94,4 +94,4 @@ Public functions return `StatusCode` values or validation results. File operatio
 Hardware integration with an ESP32 or BMS, more detailed SOC estimation, battery chemistry-specific limits, trend visualisation and validated remaining-useful-life models.
 
 ## GitHub repository
-Add the repository URL after publishing the project.
+https://github.com/Tejas180907/EV-Battery-Lifecycle-System
